@@ -1,0 +1,177 @@
+.container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  height: 310px;
+  justify-content: flex-start;
+  border: 4px solid black;
+}
+.home {
+  background-color: #E5E7EB;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  font-style: italic;
+  justify-content: center;
+padding-bottom: 5px;
+}
+.box-1 {
+  display: flex;
+  height: 200px;
+  justify-content: space-between;
+  gap: 40px;
+}
+.box-10 {
+  display: flex;
+  background-color: black;
+  height: 50px;
+  justify-content: center;
+}
+.box-2 {
+  display: flex;
+ width: 230px;
+ height: 200px;
+ align-self: center;
+}
+.box-3 {
+  display: flex;
+  width: 250px;
+  height: 190px ;
+
+  align-self: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box-4 {
+  display: flex;
+  width: 240px;
+  height: 190px ;
+  align-self: center;
+  flex-wrap: wrap;
+}
+.box-5 {
+  display: flex;
+  height: 40px;
+  width: 50px;
+  justify-content: center;
+}
+.box-7 {
+  display: flex;
+  justify-content: flex-start;
+  height: 37px;
+  margin-top: -12px;
+  padding-left: 22px;
+  
+  
+}
+.box-6 {
+  display: flex;
+  height: 40px;
+  font-style:  oblique;
+  margin-top: -6px;
+}
+.box-8 {
+  display: flex;
+  width: 100%;
+width: 235px;
+height: 70px;
+margin-top: -25px;
+}
+.box-11 {
+  display: flex;
+  margin-bottom: -13%;
+  padding-left: 5px;
+  font-size: larger;
+  font-style: inherit;
+  flex-wrap: wrap;
+}
+.box-12 {
+  display: flex;
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.box-13 {
+  display: flex;
+  margin-top: -11px;
+  padding-left: 5px;
+  font-size: large;
+  font-style: italic;
+height: 20px;
+}
+.mum {
+  display: flex;
+  height: 20px;
+  justify-content: space-between;
+  width: 100%;
+}
+.box-14 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: blue;
+}
+.box-15 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+}
+.box-16 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: yellow;
+}
+.box-17 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: orangered;
+}
+.box-18 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: greenyellow;
+}
+.box-19 {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  background-color: black;
+}
+.b{
+display: flex;
+height: 40px;
+font-size: x-small;
+margin-top: -8px;
+padding-left: -8px;
+}
+.box-20 {
+  display: flex;
+  padding-left: -4px;
+  width: 250px;
+  margin-top: -2px;
+  justify-content: center;
+}
+.temi {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+.F{
+  display: flex;
+  margin-top:-12px;
+}
+.m{
+  display: flex;
+  margin-top: -14px;
+}
+.K{
+  display: flex;
+  margin-top: -15px;
+}
